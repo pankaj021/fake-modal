@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1{
+    background: #254b6e;
+    padding: 20px;
+    color: white;
+}
+
+.AppWrap{
+  text-align: center;
+}
+
+.AwardListWrap{
+  display: inline-flex;
+  padding: 40px;
+}
+
+.AwardWrap{
+    padding: 30px;
+    border: 1px solid blue;
+    margin: 40px;
+}
+
+a{
+    cursor: pointer;
+    color: deepskyblue;
+}
